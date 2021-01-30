@@ -17,4 +17,4 @@ https://www.kaggle.com/shree1992/housedata?select=data.csv
 
 cardiotocography: classification
 
-https://www.openml.org/d/1466
+https://www.openml.org/d/1466, Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318, [UCI](https://archive.ics.uci.edu/ml/citation_policy.html)
