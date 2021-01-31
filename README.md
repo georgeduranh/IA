@@ -14,6 +14,7 @@ Houses: reggresion
 
 https://www.kaggle.com/shree1992/housedata?select=data.csv
 
+KC: https://www.kaggle.com/harlfoxem/housesalesprediction?select=kc_house_data.csv
 
 cardiotocography: classification
 
